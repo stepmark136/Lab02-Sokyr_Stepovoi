@@ -123,12 +123,12 @@ Console.WriteLine($"ИМТ: {bmi:F2}");
 
 Console.WriteLine();
 
-Console.Write("Введите фамилию: ");
-string surname = Console.ReadLine();
+// Console.Write("Введите фамилию: ");
+// string surname = Console.ReadLine();
 
-Console.Write("Введите имя: ");
-string name = Console.ReadLine();
+// Console.Write("Введите имя: ");
+// string name = Console.ReadLine();
 
-char firstLetter = name[0];
+// char firstLetter = name[0];
 
-Console.WriteLine($"{surname} {firstLetter}.");
+// Console.WriteLine($"{surname} {firstLetter}.");
