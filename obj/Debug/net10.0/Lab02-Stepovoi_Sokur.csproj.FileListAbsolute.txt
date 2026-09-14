@@ -1,0 +1,15 @@
+C:\Users\Student_12\Documents\Lab02-Stepovoi_Sokur\bin\Debug\net10.0\Lab02-Stepovoi_Sokur.exe
+C:\Users\Student_12\Documents\Lab02-Stepovoi_Sokur\bin\Debug\net10.0\Lab02-Stepovoi_Sokur.deps.json
+C:\Users\Student_12\Documents\Lab02-Stepovoi_Sokur\bin\Debug\net10.0\Lab02-Stepovoi_Sokur.runtimeconfig.json
+C:\Users\Student_12\Documents\Lab02-Stepovoi_Sokur\bin\Debug\net10.0\Lab02-Stepovoi_Sokur.dll
+C:\Users\Student_12\Documents\Lab02-Stepovoi_Sokur\bin\Debug\net10.0\Lab02-Stepovoi_Sokur.pdb
+C:\Users\Student_12\Documents\Lab02-Stepovoi_Sokur\obj\Debug\net10.0\Lab02-Stepovoi_Sokur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student_12\Documents\Lab02-Stepovoi_Sokur\obj\Debug\net10.0\Lab02-Stepovoi_Sokur.AssemblyInfoInputs.cache
+C:\Users\Student_12\Documents\Lab02-Stepovoi_Sokur\obj\Debug\net10.0\Lab02-Stepovoi_Sokur.AssemblyInfo.cs
+C:\Users\Student_12\Documents\Lab02-Stepovoi_Sokur\obj\Debug\net10.0\Lab02-Stepovoi_Sokur.csproj.CoreCompileInputs.cache
+C:\Users\Student_12\Documents\Lab02-Stepovoi_Sokur\obj\Debug\net10.0\Lab02-Stepovoi_Sokur.dll
+C:\Users\Student_12\Documents\Lab02-Stepovoi_Sokur\obj\Debug\net10.0\refint\Lab02-Stepovoi_Sokur.dll
+C:\Users\Student_12\Documents\Lab02-Stepovoi_Sokur\obj\Debug\net10.0\Lab02-Stepovoi_Sokur.pdb
+C:\Users\Student_12\Documents\Lab02-Stepovoi_Sokur\obj\Debug\net10.0\Lab02-Stepovoi_Sokur.genruntimeconfig.cache
+C:\Users\Student_12\Documents\Lab02-Stepovoi_Sokur\obj\Debug\net10.0\ref\Lab02-Stepovoi_Sokur.dll
+C:\Users\Student_12\Documents\Lab02-Stepovoi_Sokur\obj\Debug\net10.0\Lab02-Stepovoi_Sokur.sourcelink.json
